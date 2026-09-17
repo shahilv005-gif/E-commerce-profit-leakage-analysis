@@ -1,4 +1,4 @@
-# E-commerce Revenue Leakage Analysis
+# E-commerce Profit Leakage Analysis
 Overview
 
 I built this project to understand where revenue is being lost in an e-commerce order journey and to turn transaction-level data into actionable business insights.
